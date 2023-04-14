@@ -7,7 +7,7 @@ import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 import net.runelite.client.config.Units;
 
-@ConfigGroup("AerialFishing")
+@ConfigGroup("Aerial-Tick-Colors")
 public interface AerialFishingConfig extends Config
 {
 
